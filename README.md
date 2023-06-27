@@ -1,4 +1,4 @@
-# **Express Sin Up Page**
+# **Express Sign Up Page**
 This is the official source code of a working signup page which is also store data in MongoDB!
 You can use this repository in replit and netlify and also can be deploy!
 

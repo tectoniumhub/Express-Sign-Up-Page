@@ -1,0 +1,10 @@
+entrypoint = "index.ts"
+language = "nodejs"
+run = "npm run dev"
+hidden = [".config"]
+
+[nix]
+channel = "stable-22_11"
+
+[languages.typescript.languageServer]
+start = "typescript-language-server --stdio"
